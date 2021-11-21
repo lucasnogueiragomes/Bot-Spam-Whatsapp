@@ -5,6 +5,13 @@
 Apesar de entender pouquissimo de python, com um pouco de pesquisa fiz esse bot simples, só por diversão e para entender um pouco sobre python
 O bot está usando o roteiro do primeiro filme do Rocky para fazer o spam, pois é um dos meus filmes favoritos.
 
+Para o bot funcionar, você deve ter a extenção do Python no Visual Studio Code, e também ter o PyAutoGUI, para fazer isso, siga os passos abaixo.
+*Entre no Visual Studio Code*
+*Vá no terminal*
+*Digite >pip install pyautogui*
+
+Além disso, é claro que você também precisa ter o Python instalado no seu computador. Tendo tudo isso feito, o bot irá funcionar normalmente
+
 _*Como modificar*_
 
 Para usar o bot com as mensagens que você quiser, é só ir no ´´roteiro.txt´´ e colocar as mensagens que desejar
