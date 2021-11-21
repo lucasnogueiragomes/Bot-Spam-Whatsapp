@@ -1,2 +1,16 @@
 # Bot-Spam-Whatsapp
  
+*Olá*
+
+Apesar de entender pouquissimo de python, com um pouco de pesquisa fiz esse bot simples, só por diversão e para entender um pouco sobre python
+O bot está usando o roteiro do primeiro filme do Rocky para fazer o spam, pois é um dos meus filmes favoritos.
+
+_*Como modificar*_
+
+Para usar o bot com as mensagens que você quiser, é só ir no ´´roteiro.txt´´ e colocar as mensagens que desejar
+Após isso, vá no spam.py e na linha ``` texto = open('roteiro.txt') ``` e coloque isso ``` texto = open('roteiro.txt, encoding-'utf8')```
+Isso serve para que você use as mensagens em português sem dar erro, caso vá usar em inglês, não precisa mexer nisso.
+
+Espero que esse bot seja útil pra você se divertir um pouco, mas use com moderação!
+
+´´Nada arriscado, nada aprendido´´ -Taliyah
